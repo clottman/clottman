@@ -18,11 +18,7 @@ meta:
   _rest_api_published: '1'
   _rest_api_client_id: "-1"
 author:
-  login: 
-  email: 
   display_name: Cassey
-  first_name: ''
-  last_name: ''
 ---
 <p class="p1"><i>To see this post in English, click <a title="Why the Charlie Hebdo Attack is So Devastaing" href="https://clottman.wordpress.com/2015/01/09/why-the-charlie-hebdo-attack-is-so-devastaing/" target="_blank">here</a>. </i></p>
 

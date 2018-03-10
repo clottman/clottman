@@ -1,0 +1,21 @@
+---
+layout: attachment
+title: Je-suis-Charlie
+date: 2015-01-09 00:27:00.000000000 -08:00
+categories: []
+tags: []
+status: inherit
+type: attachment
+published: false
+meta:
+  _wp_attachment_image_alt: Je suis Charlie
+author:
+  login: clottman
+  email: clottman@live.com
+  display_name: Cassey
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+
