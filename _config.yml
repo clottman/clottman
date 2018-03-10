@@ -18,3 +18,4 @@ github_username:  clottman
 
 # Build settings
 markdown: kramdown
+exclude: [node_modules]
