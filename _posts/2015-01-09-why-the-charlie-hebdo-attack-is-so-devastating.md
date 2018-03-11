@@ -13,7 +13,7 @@ published: true
 author:
   display_name: Cassey
 ---
-<em>Cliquez ici pour <a title="Pourquoi l’attentat de Charlie Hebdo met en émoi la France toute entière" href="https://clottman.wordpress.com/2015/01/09/pourquoi-lattentat-de-charlie-hebdo-met-en-emoi-la-france-toute-entiere/">une traduction de cet article en français</a>.</em>
+<em>Cliquez ici pour [une traduction de cet article en français]({% post_url 2015-01-09-pourquoi-lattentat-de-charlie-hebdo-met-en-emoi-la-france-toute-entiere %}).</em>
 
 On January 7, the editorial office of a weekly French satire magazine, Charlie Hebdo, was attacked by three heavily armed gunmen, suspected to be Islamic extremists. Twelve people were killed, including two police officers who responded to the scene. The response in France has been one of shock and profound loss. Nearly all of my Facebook friends from France have posted some sort of message expressing their grief, or changed their picture to a black image with the words "Je suis Charlie” (I am Charlie). There have been large vigils in Paris, but also in cities throughout the country, such as Chambéry, where 3,000 of the 57,000 residents gathered to mourn.
 

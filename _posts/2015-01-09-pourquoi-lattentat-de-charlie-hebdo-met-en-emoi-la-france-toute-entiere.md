@@ -20,7 +20,7 @@ meta:
 author:
   display_name: Cassey
 ---
-<em>To see this post in English, click <a title="Why the Charlie Hebdo Attack is So Devastaing" href="https://clottman.wordpress.com/2015/01/09/why-the-charlie-hebdo-attack-is-so-devastaing/" target="_blank">here</a>.</em>
+<em>Click [to see this post in English]({% post_url 2015-01-09-why-the-charlie-hebdo-attack-is-so-devastating %})
 
 Le 7 janvier, le siège de Charlie Hebdo, un journal satirique français, a subi un attentat commis par trois personnes. Douze personnes sont mortes, dont deux policiers. La réponse en France : le choc et une sensation de perte. La plupart de mes amis Facebook français ont écrit un message qui exprime leur douleur, ou ont changé leur photo de profil en une image noire avec les mots ‘Je suis Charlie.’ Il y avait des grands rassemblements à Paris, mais aussi dans d'autres villes partout en France, comme à Chambéry, dont 3,000 des 57,000 habitants se sont rassemblés afin de partager leur douleur.
 

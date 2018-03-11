@@ -9641,9 +9641,7 @@ function (_Component) {
   }]);
 
   return App;
-}(_react.Component);
-
-(0, _reactDom.render)(_react.default.createElement(App, null), document.getElementById('root'));
+}(_react.Component); // render(<App />, document.getElementById('root'));
 
 /***/ }),
 /* 83 */
