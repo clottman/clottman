@@ -18,13 +18,13 @@ author:
 On January 7, the editorial office of a weekly French satire magazine, Charlie Hebdo, was attacked by three heavily armed gunmen, suspected to be Islamic extremists. Twelve people were killed, including two police officers who responded to the scene. The response in France has been one of shock and profound loss. Nearly all of my Facebook friends from France have posted some sort of message expressing their grief, or changed their picture to a black image with the words "Je suis Charlie” (I am Charlie). There have been large vigils in Paris, but also in cities throughout the country, such as Chambéry, where 3,000 of the 57,000 residents gathered to mourn.
 
 <div class="image-and-label">
-<a href="{{ site.image_url }}/2015-01-09-chambery-plus-grande.jpg{{site.image_postfix}}"><img src="{{ site.image_url }}/2015-01-09-chambery-plus-grande.jpg{{site.image_postfix}}" alt="3000 people gathered in Chambéry" width="300" height="200" /></a>
-3,000 gathered to support Charlie Hebdo in Chambéry, France
+	<a href="{{ site.image_url }}/2015-01-09-chambery-plus-grande.jpg{{site.image_postfix}}"><img src="{{ site.image_url }}/2015-01-09-chambery-plus-grande.jpg{{site.image_postfix}}" alt="3000 people gathered in Chambéry" width="300" height="200" /></a>
+	3,000 gathered to support Charlie Hebdo in Chambéry, France
 </div>
 
 As an American who spent a year as an exchange student living in France, I’d like to share my perspective on why this attack was so devastating in France.
 
-By French standards, this truly was a massacre.
+## By French standards, this truly was a massacre.
 
 At twelve deaths, the attack on Charlie Hebdo is the <a href="http://www.liberation.fr/politiques/2015/01/07/l-attentat-le-plus-meurtrier-a-paris_1175401" target="_blank">largest scale shooting in Paris</a> since World War II. Can you believe that? It seems like here in the US, we have some sort of crisis which results in a dozen deaths once a year, if not every few months. Think I’m exaggerating? Compare these graphs: one shows mass shooting deaths in the last ten years in the United States; the other shows mass shooting deaths in France since 1982.
 
