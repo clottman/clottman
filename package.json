@@ -36,6 +36,7 @@
     "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
+    "lunr": "^2.1.6",
     "react": "^15.6.2"
   }
 }

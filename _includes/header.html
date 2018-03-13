@@ -13,12 +13,18 @@
         </svg>
       </a>
 
-      <div class="trigger">
+      <div id="pages_and_search">
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        
+        <form id="search-form" action="{{site.baseurl}}/search.html" method="get">
+          <label for="search-box">Search</label>
+          <input type="text" id="search-box" name="query">
+          <input type="submit" value="search">
+        </form>
       </div>
     </nav>
 
