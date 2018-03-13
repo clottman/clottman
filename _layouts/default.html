@@ -1,21 +1,31 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
-    <div id="root"></div>
+  {% include header.html %}
+  <div id="root"></div>
 
-    <div class="page-content">
-      <div class="wrapper">
+  <div class="page-content">
+    <div class="wrapper content-wrapper">
+
+      <div id="sidebar">
+        <ul class="tags">
+          {% for tag in site.tags %} {% assign t = tag | first %} {% assign posts = tag | last %}
+          <li>{{t | replace:" ","-" }} ({{ posts | size }})</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div id="main">
         {{ content }}
       </div>
     </div>
+  </div>
 
-    {% include footer.html %}
-    <script type="text/javascript" src="{{ "/assets/javascripts/bundle.js" | prepend: site.baseurl }}" charset="utf-8"></script>
-  </body>
+  {% include footer.html %}
+  <script type="text/javascript" src="{{ " /assets/javascripts/bundle.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+</body>
 
 </html>
