@@ -3,7 +3,8 @@ layout: post
 title: Why try an hour of code?
 date: 2014-12-12 22:48:23.000000000 -08:00
 categories: []
-tags: []
+tags:
+- code for non-coders
 status: publish
 type: post
 published: true

@@ -7,6 +7,7 @@ categories:
 tags:
 - code
 - code for non-coders
+- education
 status: publish
 type: post
 published: true

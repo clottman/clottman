@@ -7,6 +7,7 @@ categories:
 tags:
 - current-events
 - france
+- racism
 status: publish
 type: post
 published: true
