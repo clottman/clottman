@@ -22,11 +22,12 @@
 
 .post {
 	max-width: 800px;
-	a { 
-		text-decoration: underline;
-	}
 }
 
 .username {
 	padding-left: 10px;
+}
+
+.pagination .previous {
+	margin-right: 15px;
 }

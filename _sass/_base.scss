@@ -93,15 +93,23 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: black;
-    text-decoration: none;
 
     &:visited {
         color: darken($brand-color, 15%);
     }
 
-    &:hover {
+    &:hover, &:focus {
         color: $text-color;
         text-decoration: underline;
+    }
+}
+
+.post-list, .social-media-list, .tags, .site-header {
+    a {
+        text-decoration: none;
+        &:hover, &:visited {
+            text-decoration: underline;
+        }
     }
 }
 
