@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Cassey. I'm a software engineer who graduated from the University of Nebraska Lincoln. Here you'll find my thoughts on technology, religion, and whatever else feels important enough to write about. Probably politics. Yeah, there's politics.
+I'm a web developer, but first and foremost, I'm a community member. My communities include women-in-tech-on-Twitter, progressives fighting for change in a red state, [r/weddingplanning](https://www.reddit.com/r/weddingplanning), [advocates for renters' rights and affordable housing](facebook.com/RentersTogetherLNK/), my book club, people making cool stuff on [Glitch](https://www.glitch.com), and so many more. My communities are what drive me - coding is my job but not my life, even though some of those community memberships only make sense _because_ I code.

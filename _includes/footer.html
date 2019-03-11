@@ -8,22 +8,27 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+            {% if site.glitch_username %}
+            <li>
+              {% include icon-glitch.html username=site.glitch_username %}
+            </li>
+            {% endif %}
+
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-
-          {% if site.twitter_username %}
+          {% for twitterAccount in site.twitters %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            {% include icon-twitter.html username=twitterAccount.username display=twitterAccount.display %}
           </li>
-          {% endif %}
+          {% endfor %}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="footer-col footer-col-3 description">
+        <p>{{ site.description | markdownify }}</p>
       </div>
     </div>
 

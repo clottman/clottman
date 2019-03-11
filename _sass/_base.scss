@@ -8,7 +8,8 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+$background-color: #219bd8;
+$brand-color: black;
 
 /**
  * Basic styling
@@ -91,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: black;
     text-decoration: none;
 
     &:visited {
@@ -206,7 +207,27 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: black;
         }
+    }
+}
+
+.content-wrapper {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid darkblue;
+}
+
+header {
+    background-color: white;
+
+    h1 {
+        margin: 0;
+    }
+}
+
+footer {
+    .description a {
+        text-decoration: underline;
     }
 }
