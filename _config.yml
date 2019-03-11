@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Cassey's Thoughts
+title: Cassey Lottman Writes
 description: > # this means to ignore newlines until "baseurl:"
-  Community health engineer at [Glitch](https://glitch.com), keeping it the friendly place to create the app of your dreams. [Running for City Council](http://casseyforcouncil.com) in Lincoln, NE.
+  Cassey is a Community Health Engineer at [Glitch](https://glitch.com), keeping it the friendly place to create the app of your dreams. She's also [running for City Council](http://casseyforcouncil.com) in Lincoln, Nebraska.
 social_description: > 
   One person is typing. 
 baseurl: "" # the subpath of your site, e.g. /blog
