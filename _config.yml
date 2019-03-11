@@ -8,7 +8,7 @@
 # Site settings
 title: Cassey's Thoughts
 description: > # this means to ignore newlines until "baseurl:"
-  This is my place to talk technology. Warning: you may encounter politics. You're going to get through it.
+  Community health engineer @Glitch, keeping it the friendly place to create the app of your dreams. Running for City Council in Lincoln, NE.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://clottman.github.io" # the base hostname & protocol for your site
 twitter_username: CasseyLottman
@@ -20,4 +20,4 @@ markdown: kramdown
 exclude: [node_modules]
 
 collections:
-  - tags
+  - tag_pages
