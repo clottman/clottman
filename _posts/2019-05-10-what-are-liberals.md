@@ -16,6 +16,7 @@ A friend posted this graphic on Facebook, with this caption:
 #heresahandychart"
 
 ![Liberals Vs Leftists - see next link for a text-based version](/assets/images/liberals-vs-leftists.jpg)
+[Accessible version of the Liberals vs Leftists graphic](/liberals-vs-leftists.html)
 
 Many people in the comments were noting that this comparison didn't seem particularly helpful, and perhaps is divisive due to some unfair assumptions it makes. Few people were pointing out the flaws in the comparison though, so I wrote down those that I can see. 
 
