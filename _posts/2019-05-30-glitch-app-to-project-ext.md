@@ -35,3 +35,5 @@ The App-to-Project extension is a bit more complicated than my Pinboard extensio
 I learned through these projects that it's really easy to make Chrome extensions, once you have a good base project to remix from, to do any little task I want to do from a webpage. I want to make more extensions now! They're more useful to me than bookmarklets, because they live right in the same line as the address bar and so don't take up the space that the Chrome Bookmarks bar does.  
 
 I also want to learn what the differences are between Chrome and Firefox extension definitions, so I can port my extensions to the both browsers on my own.
+
+[Discuss this in the Glitch Forums](https://support.glitch.com/t/glitch-app-to-glitch-project-page-extensions/11095)
