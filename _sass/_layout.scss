@@ -208,11 +208,3 @@
         min-width: unset;
     }
 }
-
-#main {
-    min-width: 90%;
-
-    @include media-query($on-palm) {
-        min-width: unset;
-    }
-}
