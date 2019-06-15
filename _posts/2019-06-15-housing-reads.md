@@ -8,6 +8,7 @@ type: post
 published: true
 author:
   display_name: Cassey
+excerpt: Books, articles, and satire that has informed my thinking on housing policy over the years, and put my intuitions into words.
 ---
 
 ## Books
