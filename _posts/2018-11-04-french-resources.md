@@ -25,5 +25,8 @@ I often get asked what supplementary resources I used to learn French. Here's my
 If you're struggling with grokking the grammar bits, <a href="https://smile.amazon.com/English-Grammar-Students-French-Learning/dp/0934034427/">English Grammar for Students of French</a> is a very approachable/small textbook I used. It helped me remember things like "what is the past perfect in English?" so it was easier to figure out when to use them in French. I haven't tried any other editions, but this book exists for lots of different languages as well.
 
 <a href="https://smile.amazon.com/Petit-Prince-French-Language/dp/0156013983">Le Petit Prince</a> by Antoine de Saint Exupéry is the first book I read that was completely in French. It was written for a young audience, so it's an easy and classic place to start when you're ready for a full book.
-<h3>Movies:</h3>
+
+<h3>Videos:</h3>
 While I was learning French, I watched the DVDs that I had on hand (especially Nick And Norah's Infinite Playlist, my favorite at the time) that happened to have a French audio track and English or French subtitles. I highly recommend this as a low-cost way of exposing yourself to more audio in your target language. If it bothers you that the mouths of people on screen don't match up with the audio, try watching Disney or other animated films - the dubbing is frequently a lot less noticeable.
+
+The <a href="http://www.learner.org/resources/series83.html">French In Action</a> series is an oldie but most definitely a goodie. They're like telenovelas in advanced beginner/intermediate French that are a great way to practice comprehension skills. 
