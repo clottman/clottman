@@ -1,3 +1,16 @@
+---
+layout: post
+title: "Driver Hits Person on Bike, Driver Drives Away, Nothing Happens"
+date: 2019-06-18 6:26:31.000000000 -08:00
+tags: [streets, justice]
+status: publish
+type: post
+published: true
+author:
+  display_name: Cassey
+excerpt: Did you know 15% of *all* crashes between a car and a bike in Lincoln are classified by LPD hit & runs? And that 31% of bicyclists injured in Lincoln are children?
+---
+
 Did you know 15% of *all* crashes between a car and a bike in Lincoln are classified by LPD hit & runs? And that 31% of bicyclists injured in Lincoln are children? 94% of cyclists who are hit are injured. That's in Lincoln, specifically. [Sources](http://stpierre.github.io/crashes/#toc-bicycle-collision-analytics-lincoln-ne-)
 
 Last week we saw [a pretty horrific video of a driver in Lincoln hitting a child on a bicycle, backing up and then dragging the child under the vehicle for 25 feet before driving off](http://lincolncrimestoppers.com/scary-moment/). The responding officer received cell-phone video the day it happened, which wasn't processed or released by LPD for nearly a month.
