@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July 27 Roundup"
-date: 2019-06-18 6:26:31.000000000 -08:00
+date: 2019-07-27 6:26:31.000000000 -08:00
 tags: [streets, housing]
 status: publish
 type: post
